@@ -2,3 +2,20 @@
     width: 100% !important;
     height: auto !important;
 }
+
+.navbar .container {
+    max-width: none;
+}
+
+.header-text {
+    font-size: 23px !important;
+}
+
+.bg-primary .col-lg-8 {
+    flex: 0 0 90%;
+    max-width: 90%
+}
+
+.text-faded a {
+    color: #efe114;
+}
