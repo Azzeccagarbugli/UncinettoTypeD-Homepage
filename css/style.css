@@ -55,9 +55,13 @@ header.masthead {
     }
 }
 
+#timeline {
+ padding-top: 0 !important;
+ }
 .timeline {
   position: relative;
   padding: 0;
+  padding-top: 0 !important;
   list-style: none; }
   .timeline:before {
     position: absolute;
