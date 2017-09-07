@@ -56,8 +56,13 @@ header.masthead {
 }
 
 #timeline {
- padding-top: 0 !important;
- }
+    padding-top: 0 !important;
+}
+
+#team {
+    padding-top: 0 !important;
+}
+
 .timeline {
   position: relative;
   padding: 0;
