@@ -1,6 +1,27 @@
+/*
 .header-content-inner img {
     width: 100% !important;
     height: auto !important;
+}
+*/
+
+.header-content-inner {
+    position: relative;
+    margin: 25%;
+}
+
+.embed-responsive {
+    display: flex;
+}
+
+.embed-responsive-item {
+    z-index: -1;
+}
+
+header.masthead {
+    background: none;
+    height: auto !important;
+    min-height: auto;
 }
 
 .navbar .container {
@@ -8,7 +29,7 @@
 }
 
 .header-text {
-    font-size: 23px !important;
+    font-size: 2.5vh !important;
 }
 
 .bg-primary .col-lg-8 {
@@ -18,4 +39,11 @@
 
 .text-faded a {
     color: #efe114;
+}
+
+/* Small devices (tablets, 768px and up) */
+@media ( max-width : 768px ) {
+  .btn-xl-text {
+      display: none !important;
+  }
 }
