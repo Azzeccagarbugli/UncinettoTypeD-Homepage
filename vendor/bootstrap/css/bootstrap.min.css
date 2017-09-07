@@ -439,7 +439,9 @@ mark {
 }
 .list-inline {
     padding-left: 0;
-    list-style: none
+    list-style: none;
+    margin:auto;
+    margin-top: 8px;
 }
 .list-inline-item {
     display: inline-block
