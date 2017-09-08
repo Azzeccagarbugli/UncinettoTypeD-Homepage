@@ -63,6 +63,16 @@ header.masthead {
     padding-top: 0 !important;
 }
 
+.rounded-circle {
+    height: 100% !important;
+}
+
+.call-to-action {
+    padding: 100px 0;
+}
+
+/**********************************************/
+
 .timeline {
   position: relative;
   padding: 0;
