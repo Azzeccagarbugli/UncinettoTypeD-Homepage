@@ -71,6 +71,10 @@ header.masthead {
     padding: 100px 0;
 }
 
+.list-inline {
+    text-align: center;
+}
+
 /**********************************************/
 
 .timeline {
