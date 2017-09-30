@@ -10,7 +10,8 @@ header.masthead {
 
 .header-content-inner {
     position: relative;
-    padding: 20%;
+    padding: 25%;
+    padding-top: 12%;
 }
 
 .header-content-inner img {
